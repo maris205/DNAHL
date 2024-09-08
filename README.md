@@ -1,6 +1,7 @@
 # DNAHL
 DNAHL - DNA sequence and Human Language mixed large language model
 
+There are already many DNA large language models, but most of them still follow traditional uses, such as extracting sequence features for classification tasks. More innovative applications of large language models, such as prompt engineering, model fine-tuning, and zero-shot or few-shot prediction, remain challenging for DNA-based models. The key issue lies in the fact that DNA models and human natural language models are entirely separate; however, techniques like prompt engineering require the use of natural language, thereby significantly limiting the application of DNA large language models. This paper introduces a hybrid model trained on the GPT-2 network, combining DNA sequences and English text to explore the potential of using prompts in DNA models. The model has demonstrated its effectiveness in zero-shot prediction and fine-tuning. Future training on larger networks could potentially resolve the limitations currently faced by DNA large language models.
 
 
 ### Paper Outline: DNAHL - DNA Human Language Mixed Large Language Model
