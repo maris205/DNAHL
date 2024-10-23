@@ -16,3 +16,5 @@ llama_7b: llama 7B, Continue pre-training on DNA sequences.
 
 # References
 model/dataset : https://huggingface.co/dnagpt
+
+paper: https://arxiv.org/abs/2410.16917, DNAHL- DNA sequence and Human Language mixed large language model
